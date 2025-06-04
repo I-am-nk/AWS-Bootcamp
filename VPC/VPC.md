@@ -1,5 +1,8 @@
 # 🧠 AWS VPC – Complete Notes on All Components
 
+![Uploading image.png…]()
+
+
 ## 🔹 1. What is a VPC?
 **Amazon VPC (Virtual Private Cloud)** is a logically isolated section of AWS where you define your own virtual network environment.
 
