@@ -1,6 +1,7 @@
 # 🧠 AWS VPC – Complete Notes on All Components
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/cb9f9e21-ee1c-40ed-8b58-472d8e742d1a)
+
 
 
 ## 🔹 1. What is a VPC?
